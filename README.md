@@ -9,4 +9,5 @@ JavaScript 30 is a free online video course teaching you the fundamentals of Jav
 
 |**Day 1**|[JavaScript Drum Kit challenge](https://github.com/vaibhavsingh97/JavaScript30-challenge/tree/master/challenges/01%20-%20JavaScript%20Drum%20Kit)| [![Day 1 demo gif](/images/play.png)](https://vaibhavsingh97.com/JavaScript30-challenge/challenges/01%20-%20JavaScript%20Drum%20Kit/index.html) |
 |---|---|---|
-|**Day 2**|   |   |
+|**Day 2**|[JS and CSS clock](https://github.com/vaibhavsingh97/JavaScript30-challenge/tree/master/challenges/02%20-%JS%20and%20CSS%20Clock)|[![Day 2 demo gif](/images/play.png)](https://vaibhavsingh97.com/JavaScript30-challenge/challenges/02%20-%JS%20and%20CSS%20Clock/index.html)|
+|**Day 3**| | |
